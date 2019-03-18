@@ -1,0 +1,11 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["standard"],
+  "rules": {
+    "space-before-function-paren": "off"
+  },
+  "env": {
+    "jest": true,
+    "browser": true
+  }
+}
